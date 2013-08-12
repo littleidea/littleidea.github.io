@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Andrew Clay Shafer]]></title>
-  <link href="http://andrewclayshafer.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: test | Andrew Clay Shafer]]></title>
+  <link href="http://andrewclayshafer.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://andrewclayshafer.com/"/>
   <updated>2013-08-11T22:05:41-04:00</updated>
   <id>http://andrewclayshafer.com/</id>

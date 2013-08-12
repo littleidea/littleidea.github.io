@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://andrewclayshafer.com/blog/2013/05/26/a-test/</loc>
+        <lastmod>2013-05-26T00:25:37-04:00</lastmod>
+    </url>
+    <url>
         <loc>http://andrewclayshafer.com/blog/archives/</loc>
-        <lastmod>2013-05-05T00:55:37-04:00</lastmod>
+        <lastmod>2013-05-26T00:25:37-04:00</lastmod>
     </url>
     <url>
         <loc>http://andrewclayshafer.com/</loc>
-        <lastmod>2013-05-05T00:55:37-04:00</lastmod>
+        <lastmod>2013-05-26T00:25:37-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://andrewclayshafer.com/make-test/</loc>
+        <lastmod>2013-05-26T00:37:59-04:00</lastmod>
     </url>
 </urlset>
